@@ -1,5 +1,7 @@
 # 🧳 Smart Travel Planner & Price Predictor
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://srinikethsubba-smart-travel--app-lf5uab.streamlit.app)
+
 A mini travel analytics dashboard that helps you explore hotel prices and predict future costs based on historical data using Machine Learning.
 
 Built entirely with:
